@@ -1,0 +1,17 @@
+# Virtual Environment
+env
+
+# Sqlite3 Database
+db.sqlite3
+
+# Cache files
+__pycache__
+
+# Migration files
+migrations
+
+# Secret credentials file
+secrets.py
+
+# macos cache files
+.DS_Store
